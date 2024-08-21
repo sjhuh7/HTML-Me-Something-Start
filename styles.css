@@ -1,1 +1,40 @@
-/* Write your CSS here! */
+
+
+header {
+    background-color: lightblue;
+    border: 3px solid orange;
+    display: flex;
+    justify-content: center;
+}
+section {
+    text-align: center;
+    border: 3px solid orange;
+    background-color: lightblue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+p {
+    border: 3px solid orange;
+    text-align: center;
+    background-color: lightblue;
+}
+#imagetitles {
+    background-color: dodgerblue;
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+    font-style:oblique;
+}
+article {
+    border: 3px solid orange;
+    text-align: center;
+    background-color: lightblue;
+}
+
+
+
